@@ -1,0 +1,30 @@
+body {
+	font-family: Arial;
+	font-size: 10pt;
+	color: #555555;
+	margin: auto;
+}
+#tartalom {
+	width: 700px;
+	text-align: center;
+}
+#sztori {
+	width: 300px;
+	float: left;
+	text-align:left;
+}
+#elkeszites {
+	width: 380px;
+	float: right;
+	text-align:left;
+}
+img {
+	float: left;
+	margin-right: 40px;
+}
+h1{
+	text-align:left;
+}
+#reszletek{
+	text-align:left;
+}
